@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family:"platypi", Helvetica, sans-serif;
+    background-image: url(../img/headerimg.jpg);
+}
+
+/* Imagen del Header */
+.col img{
+    margin-top: 20px;
+    width: 350px;
+    border-radius: 50%;
+    border:8px;
+    border-color:cornflowerblue;
+    border-left-style:groove;
+}
+
+/*Estilo de la Card Formacion Academica y Experiencia laboral" */
+.card_formato {
+    width: 45rem;
+    border: 2px solid gray;
+    border-radius: 1%;
+}
+
+/*Estilo de la Card Formacion Habilidades" */
+.card_hab {
+    width: 30rem;
+    border: 2px solid gray;
+    border-radius: 1%;
+}
+
+.list-group-item{
+    background-color:lightgray ;
+   
+}
+
+/* Estilo de la Card Portafolio */
+.card {
+    border: 2px solid gray;
+    width: 21rem;
+}
+
+/* Imagenes de la Card Portafolio */
+.card img{
+    height: 260px;
+}
+
